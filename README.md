@@ -15,3 +15,4 @@ CORS：资源资源共享
 
 [博学谷学习中心：](<https://xuexi.boxuegu.com/?anchor=course>)
 
+开源一套简单通用的后台管理系统](https://www.cnblogs.com/huanzi-qch/p/11534203.html)：
